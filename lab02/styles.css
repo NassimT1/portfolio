@@ -1,0 +1,14 @@
+h3 span {
+    display: inline;
+    font-size: 1rem; /* reduce the font size of the span element */
+    font-weight: normal; /* remove the boldness of the span element */
+  }
+
+h4 {
+    margin-bottom: 0px;
+}
+
+h3 {
+    margin-top: 0px;
+}
+  
