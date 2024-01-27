@@ -1,0 +1,54 @@
+.column {
+  flex: 30%;
+  padding: 5px;
+}
+img {
+  width: 100%;
+}
+.container {
+  margin: auto;
+  display: flex;
+  width: 75%;
+  margin-bottom: 50px;
+}
+
+.main {
+  display: block;
+  margin: auto;
+  width: 700px;
+  text-align: left;
+  margin-bottom: 50px;
+}
+
+.text_bold {
+  font-weight: bold;
+  font-size: 4rem;
+  margin-top: 0px;
+  margin-bottom: 5px;
+  text-align: center;
+}
+
+.text_normal {
+  margin: 5px 25px ;
+  font-size: 2rem;
+  margin-bottom: 50px;
+}
+
+.container_block {
+  display: block;
+  text-align: center;
+}
+
+.big {
+  width: 55%;
+}
+
+.cont {
+  margin: auto;
+  width: 1000px; 
+  padding: 15px; 
+  border-radius: 15px;
+  background-color: #eeeaea;
+  border: 2px solid black;
+
+}
