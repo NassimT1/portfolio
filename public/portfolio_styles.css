@@ -1,0 +1,24 @@
+.center {
+    height: 700px;
+    width: 1500px;
+    border: 2px solid black;
+    margin: auto;
+    border-radius: 45px;
+    background-color: #eeeaea;
+}
+
+.text_bold {
+    font-weight: bold;
+    font-size: 4rem;
+    margin-top: 25px;
+    text-align: center;
+}
+
+.text_normal {
+    margin: 5px 25px ;
+    font-size: 2rem;
+}
+
+.indent {
+    margin-left: 45px;
+}
