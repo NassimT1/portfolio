@@ -1,5 +1,4 @@
 .center {
-    height: 700px;
     width: 1500px;
     border: 2px solid black;
     margin: auto;
@@ -15,10 +14,14 @@
 }
 
 .text_normal {
-    margin: 5px 25px ;
+    margin: 25px ;
     font-size: 2rem;
 }
 
 .indent {
     margin-left: 45px;
+}
+
+a {
+    color: black;
 }

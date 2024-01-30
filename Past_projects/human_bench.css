@@ -34,21 +34,28 @@ img {
   margin-bottom: 50px;
 }
 
-.container_block {
+.block {
   display: block;
   text-align: center;
 }
 
-.big {
-  width: 55%;
+.small {
+  width: 100%;
 }
 
-.cont {
+.big {
+  width: 65%;
+}
+
+.content {
   margin: auto;
   width: 1000px; 
   padding: 15px; 
   border-radius: 15px;
   background-color: #eeeaea;
   border: 2px solid black;
+}
 
+video {
+  width: 25%;
 }
